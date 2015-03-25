@@ -4,7 +4,6 @@ A simple prime numbers calculator written in C/C++
 
 for all version and precompiled binaries: https://minegrado.info/DWN/pub/all/primes
 
-
 #build
 
 build from sources:
